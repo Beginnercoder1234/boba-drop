@@ -1,0 +1,19 @@
+/* style.css */
+@import url('https://fonts.googleapis.com/css2?family=Sixtyfour+Convergence&display=swap');
+
+body {
+    font-family: "Sixtyfour Convergence";
+}
+
+img {
+    width: 400px;
+    height: 150px;
+    position: relative;
+    top: 30px;    /* Moves image 10px down */
+    left: 20px;   /* Moves image 20px to the right */
+}
+
+
+    
+
+
